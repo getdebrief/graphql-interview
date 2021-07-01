@@ -1,7 +1,7 @@
 import React from 'react';
 
 import './App.css';
-import LaunchProfile from './components/LaunchProfile/component';
+import LaunchProfile from './containers/LaunchList';
 import LaunchList from './containers/LaunchList';
 
 export default function App () {
